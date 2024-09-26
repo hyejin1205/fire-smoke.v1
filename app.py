@@ -1,5 +1,5 @@
 import streamlit as st
-import util
+import utils
 import cv2
 import numpy as np
 import io
